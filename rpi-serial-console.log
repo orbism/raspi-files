@@ -1,0 +1,8 @@
+Log of rpi-serial-console 
+Sun May 25 13:14:39 2014
+
+Inconsistent status! /boot/cmdline.txt is enabled, but /etc/inittab is disabled
+rpi-serial-console died with exit status 1
+
+Sun May 25 13:14:39 2014
+----------------
